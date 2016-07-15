@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'SEGOEUIL';
+	src: url('../fonts/SEGOEUIL');
+	src: local('SEGOEUIL'), url('../fonts/SEGOEUILd.woff') format('woff'), url('../fonts/SEGOEUIL.ttf') format('truetype');
+}
+
+
+
+.data h1:hover{ color:#C06; font-family:} 
+.data span{ color:#3C9;} 
+
+.data_id{}
+.data_bh{}
+
+.text {
+	background-image:url(../image/card-4_03.png);
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 10px;
+}
+.positions{ background-image:url(../image/banner-1.jpg);}
